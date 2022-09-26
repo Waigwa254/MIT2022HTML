@@ -1,0 +1,17 @@
+table{
+    font-family: Algerian;
+    width: 100%;
+    color: brown;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px  dashed brown;
+    padding: 10px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: blueviolet;
+}
+th{
+    color: black;
+}

@@ -1,0 +1,21 @@
+h1{
+   color: black;
+
+    font-size: 25px;
+    text-align: center;
+}
+p {
+    color: grey;
+    font-family: "Arial Black";
+    font-size: 16px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode: overlay;
+    background-position-x: center;
+    background-position-y: bottom;
+
+
+
+}

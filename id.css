@@ -1,0 +1,22 @@
+#Asia{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    border: 2px solid red;
+    color: brown;
+}
+#East\ Africa{
+    background-color: indigo;
+    color: chartreuse;
+    padding: 20px;
+    border: 2px solid firebrick;
+    text-align: center;
+}
+#NAmerica{
+    background-color: lightseagreen;
+    color: green;
+    text-align: center;
+    border: slateblue;
+    padding: 20px;
+    font-family: Bahnschrift;
+}

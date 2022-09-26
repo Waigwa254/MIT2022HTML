@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(blue,darkgreen);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: green;
+    border: 2px solid green;
+
+
+}
+form{
+    color: lightseagreen;
+    font-size: 20px;
+}
+input{
+    width: 50%;
+    padding: 12px 50px;
+    margin: 8px;
+    box-sizing: border-box;
+
+}
+input[type=text]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+label{
+    display: inline-block;
+    text-align: right;
+    width: 240px;
+}
+select{
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+
+}
+input[type=submit]{
+    width: 20%;
+}
